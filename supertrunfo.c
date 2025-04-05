@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main (){
-    char estado[10], estado2[10];
-    char codigo[3], cidade[10], cidade2[10];
+    char estado[100], estado2[100];
+    char codigo[3], cidade[100], cidade2[100];
     char codigo2[3];
     int populaçao, populaçao2,pontosTur2, pontosTur;
     float areakm, areakm2, PIB2, PIB;
