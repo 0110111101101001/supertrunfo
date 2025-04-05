@@ -55,7 +55,7 @@ int main (){
 
     printf("CARTA 1\n");
     printf("ESTADO: %s\n", estado);
-    printf("CODIGO DA CARTA: %s-$s\n", estado, codigo);
+    printf("CODIGO DA CARTA: %s-%s\n", estado, codigo);
     printf("NOME DA CIDADE: %s\n", cidade);
     printf("POPULAÇÃO: %d\n", populaçao);
     printf("ÁREA: %f\n", areakm);
